@@ -15,6 +15,12 @@ Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
+<div id="exercise1">
+<h1>Jake Johnston </h1>
+<p>
+I am a student at truecoders. I like to play video games, go bowling, and play golf.
+</p>
+<div>
 
 ## Exercise 2
 
@@ -27,7 +33,13 @@ Steps are to be completed under the div with `id="exercise2"`
    - The first **anchor** element should link to your _LinkedIn profile_
    - The second **anchor** element should link to the _TrueCoders homepage_
    - The third **anchor** element should link to your _most visited website_
-
+<div id="exercise2">
+<ul>
+   <li><a href="https://www.linkedin.com/in/jake-johnston-049682161/">LinkedIn</a></li>
+   <li><a href="https:truecoders.io">TrueCoders</a></li>
+   <li><a href="https://youtube.com">Youtube</a></li>
+</ul>
+</div>
 ## Exercise 3
 
 Steps are to be completed under the div with `id="exercise3"`
@@ -35,7 +47,9 @@ Steps are to be completed under the div with `id="exercise3"`
 1. Create an **image** element
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
-
+<div id="exercise3">
+   <img src="./images/example.png" alt="example pic"> 
+</div>
 ## Exercise 4
 
 Steps are to be completed under the div with `id="exercise4"`
